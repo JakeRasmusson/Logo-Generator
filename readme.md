@@ -51,10 +51,15 @@ Here's a quick video demonstration on how to use the app.  Otherwise enjoy the s
 
 ![Text Fill color](/assets/images/location_of_logo_screenshot.png)
 
+##Tests
+
+The testing for this app is done using jest.  The testing suite is located in the lib/tests folder.  There are tests created for creating each of the shape object.  As well as for the generatesvg javascript file.  The can be started with the command "npm test"
+
 ## Credits
 
 Technology used
 
+[Jest](https://jestjs.io/)\
 [Nodejs](https://nodejs.org/en)\
 [inquirer](https://www.npmjs.com/package/inquirer)
 
